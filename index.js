@@ -1,5 +1,7 @@
 
 function create(options) {
+  options = options || {}
+
   var buffer = options.buffer || require('buffer')
   var Buffer = buffer.Buffer
 
