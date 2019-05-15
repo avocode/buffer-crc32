@@ -1,6 +1,8 @@
 # buffer-crc32
 
-[![Build Status](https://secure.travis-ci.org/brianloveswords/buffer-crc32.png?branch=master)](http://travis-ci.org/brianloveswords/buffer-crc32)
+[![Build Status](https://secure.travis-ci.org/avocode/buffer-crc32.png?branch=avocode)](http://travis-ci.org/avocode/buffer-crc32)
+
+:warning: Avocode fork details are in [@avocode/yazl repository](https://github.com/avocode/yazl#avocode-fork-warning).
 
 crc32 that works with binary data and fancy character sets, outputs
 buffer, signed or unsigned data and has tests.
