@@ -1,4 +1,4 @@
-var crc32 = require('..');
+var crc32 = require('..').create({ buffer: { Buffer: Buffer }});
 var test = require('tap').test;
 
 test('simple crc32 is no problem', function (t) {
