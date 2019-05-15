@@ -1,8 +1,8 @@
 {
   "author": "Brian J. Brennan <brianloveswords@gmail.com>",
-  "name": "buffer-crc32",
+  "name": "@avocode/buffer-crc32",
   "description": "A pure javascript CRC32 algorithm that plays nice with binary data",
-  "version": "0.2.13",
+  "version": "0.2.13-avocode",
   "licenses": [
     {
       "type": "MIT",
